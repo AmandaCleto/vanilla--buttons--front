@@ -13,3 +13,9 @@ Training my CSS skill for interactions using hover.
 
 ## 🌐 Links:
 See the result: https://codepen.io/AmandaCleto/pen/QWwvPqN
+
+<br>
+
+
+## LICENSE
+This project is licensed under the [MIT] license - see the LICENSE.md file for more details.
