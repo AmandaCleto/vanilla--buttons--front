@@ -7,7 +7,7 @@
 <br>
 
 
-## 💡 Ideia:
+## 💡 Idea:
 Training my CSS skill for interactions using hover.
 
 
