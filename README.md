@@ -12,7 +12,7 @@ Training my CSS skill for interactions using hover.
 
 
 ## 🌐 Links:
-See the result: https://codepen.io/AmandaCleto/pen/QWwvPqN
+See the result: [<ins>Codepen: Mascot</ins>](https://codepen.io/AmandaCleto/pen/QWwvPqN).
 
 <br>
 
